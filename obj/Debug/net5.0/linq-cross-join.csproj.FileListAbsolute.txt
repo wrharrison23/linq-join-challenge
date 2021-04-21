@@ -1,0 +1,16 @@
+C:\Users\Wes\workspace\csharp\linq-cross-join\bin\Debug\net5.0\linq-cross-join.exe
+C:\Users\Wes\workspace\csharp\linq-cross-join\bin\Debug\net5.0\linq-cross-join.deps.json
+C:\Users\Wes\workspace\csharp\linq-cross-join\bin\Debug\net5.0\linq-cross-join.runtimeconfig.json
+C:\Users\Wes\workspace\csharp\linq-cross-join\bin\Debug\net5.0\linq-cross-join.runtimeconfig.dev.json
+C:\Users\Wes\workspace\csharp\linq-cross-join\bin\Debug\net5.0\linq-cross-join.dll
+C:\Users\Wes\workspace\csharp\linq-cross-join\bin\Debug\net5.0\ref\linq-cross-join.dll
+C:\Users\Wes\workspace\csharp\linq-cross-join\bin\Debug\net5.0\linq-cross-join.pdb
+C:\Users\Wes\workspace\csharp\linq-cross-join\obj\Debug\net5.0\linq-cross-join.csprojAssemblyReference.cache
+C:\Users\Wes\workspace\csharp\linq-cross-join\obj\Debug\net5.0\linq-cross-join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wes\workspace\csharp\linq-cross-join\obj\Debug\net5.0\linq-cross-join.AssemblyInfoInputs.cache
+C:\Users\Wes\workspace\csharp\linq-cross-join\obj\Debug\net5.0\linq-cross-join.AssemblyInfo.cs
+C:\Users\Wes\workspace\csharp\linq-cross-join\obj\Debug\net5.0\linq-cross-join.csproj.CoreCompileInputs.cache
+C:\Users\Wes\workspace\csharp\linq-cross-join\obj\Debug\net5.0\linq-cross-join.dll
+C:\Users\Wes\workspace\csharp\linq-cross-join\obj\Debug\net5.0\ref\linq-cross-join.dll
+C:\Users\Wes\workspace\csharp\linq-cross-join\obj\Debug\net5.0\linq-cross-join.pdb
+C:\Users\Wes\workspace\csharp\linq-cross-join\obj\Debug\net5.0\linq-cross-join.genruntimeconfig.cache
